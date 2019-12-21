@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1576603526 source:g:\project\olddriver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+

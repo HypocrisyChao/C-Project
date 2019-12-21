@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576732865 source:g:\project\3button_special\main.c
+	<stdio.h>
+	<stdlib.h>
+
